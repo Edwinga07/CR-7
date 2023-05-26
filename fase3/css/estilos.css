@@ -34,13 +34,13 @@ header{
       align-items: center;
       justify-content: center;
       color:black;
-      background:lightseagreen;
+      background:darkorchid;
       height: 50px;
       text-decoration: none;
   }
   
   .menu-area a:hover{
-      background:lime;
+      background:cornflowerblue;
       color: #fff
   }
   
