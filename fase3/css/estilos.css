@@ -5,8 +5,8 @@ header{
   
   }
   nav{
-      background-color:coral;
-      padding: 10px;
+      background-color:yellowgreen;
+      padding: 1px;
   }
   section{
       grid-column: 1/4 ;
@@ -19,8 +19,8 @@ header{
        padding: 10px;
   }
   footer{
-       background-color:rebeccapurple;
-       padding: 20px;
+       background-color:olive;
+       padding: 7px;
   }
   div{
       display: grid;
@@ -34,7 +34,7 @@ header{
       align-items: center;
       justify-content: center;
       color:black;
-      background:darkorchid;
+      background:mediumturquoise;
       height: 50px;
       text-decoration: none;
   }
