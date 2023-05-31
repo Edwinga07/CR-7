@@ -5,6 +5,7 @@ header{
     display: flex;
     justify-content:space-evenly;
     align-items:center;
+    color:blue;
     
   }
   @media screen and (max-width:600px) {
@@ -86,4 +87,8 @@ header{
   
   .dropdown-1 li:hover{
       display: block;
+  }
+
+  #titulo {
+color: blueviolet;
   }
