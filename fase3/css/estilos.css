@@ -1,11 +1,11 @@
 header{
-    background-color:aquamarine;
+    background-color:#D50C9E;
     padding: 10px;
     text-align:center;
     display: flex;
     justify-content:space-evenly;
     align-items:center;
-    color:#0C62D5;
+    color:#0CD513;
     
   }
   @media screen and (max-width:600px) {
@@ -90,5 +90,5 @@ header{
   }
 
   #titulo {
-color:burlywood;
+color:#0C8FD5;
   }
