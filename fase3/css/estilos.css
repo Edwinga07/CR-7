@@ -1,11 +1,11 @@
 header{
-    background-color:rosybrown;
+    background-color:aquamarine;
     padding: 10px;
     text-align:center;
     display: flex;
     justify-content:space-evenly;
     align-items:center;
-    color:blue;
+    color:cadetblue;
     
   }
   @media screen and (max-width:600px) {
@@ -23,7 +23,7 @@ header{
   }
   section{
       grid-column: 1/4 ;
-      background-color:darkgray;
+      background-color:#68D50C;
       padding: 80px;
   }
   aside{
@@ -90,5 +90,5 @@ header{
   }
 
   #titulo {
-color:crimson;
+color:burlywood;
   }
